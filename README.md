@@ -23,10 +23,10 @@ This repository uses the following :
 ## Packages
 This repository contains the following packages :
 
-- `@gganbu-org/react` – core components library
-- `@gganbu-org/hooks` – collection of hooks for React Hooks for Gganbu UI components
-- `@gganbu-org/utils` – collection of Common utilities for Gganbu UI
-- `@gganbu-org/styled` – styled API for creating component styling
+- `@gganbu-org/react` – Core components library
+- `@gganbu-org/hooks` – Collection of hooks for React Hooks for Gganbu UI components
+- `@gganbu-org/utils` – Collection of Common utilities for Gganbu UI
+- `@gganbu-org/styled` – Styled API for creating component styling
 - `@gganbu-org/styled-utils` – CSS utilities for the Gganbu Design System
 - `@gganbu-org/theme` – A preset for Panda CSS that contains Gganbu Design System's branding
 
