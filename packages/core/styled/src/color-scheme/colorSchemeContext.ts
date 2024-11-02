@@ -10,6 +10,3 @@ export function useColorScheme() {
   }
   return context;
 }
-
-if (process.env.NODE_ENV !== 'production')
-  ColorSchemeContext.displayName = 'ColorSchemeContext';
